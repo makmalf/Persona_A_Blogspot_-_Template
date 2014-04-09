@@ -25,5 +25,5 @@ Visit <a href="http://blog.makmalf.com/2014/03/redesign-blog-lagi-dan-lagi.html"
 </ul>
 
 <h2>Update Note</h2>
-V1.1 --> Adding header image for single page feature, adding fontAwesome. <a href="fortawesome.github.io/Font-Awesome/icons/">(See documentation)</a>
+V1.1 --> Adding different header image feature for single page, adding fontAwesome. <a href="fortawesome.github.io/Font-Awesome/icons/">(See documentation)</a>
 
