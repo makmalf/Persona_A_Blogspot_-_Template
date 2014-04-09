@@ -11,11 +11,11 @@ Visit <a href="http://blog.makmalf.com/2014/03/redesign-blog-lagi-dan-lagi.html"
 <ul>
 <li>Simply paste this example to your entry editor (html view mode).
 <code>
-<style>
+&lt;style&gt;
 .header-single {
   background: url('https://farm6.staticflickr.com/5201/13741860435_a71824e0da_o.jpg') center no-repeat !important;
 }
-</style>
+&lt;/style&gt;
 </code>
 </li>
 
