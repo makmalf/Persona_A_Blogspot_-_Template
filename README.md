@@ -5,7 +5,13 @@ Blogspot Template
 
 Only for personal use. Do not use for commercial purpose please.
 
-Visit <a href="http://blog.makmalf.com/2014/03/redesign-blog-lagi-dan-lagi.html">this page</a> for deeper explanation about this template. (Indonesian lang)
+<h2>About Template</h2>
+<ul>
+<li>No SIDEBAR, but you still could adding some widgets for homepage ONLY</li>
+<li>Responsive design</li>
+<li>If you want something more about this template, please develope by yourself</li>
+<li>Visit <a href="http://blog.makmalf.com/2014/03/redesign-blog-lagi-dan-lagi.html">this page</a> for deeper explanation about this template. (Indonesian lang)</li>
+</ul>
 
 <h2>How to Use Header image for Single Page</h2>
 <ul>
