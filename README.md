@@ -32,4 +32,5 @@ Only for personal use. Do not use for commercial purpose please.
 
 <h2>Update Note</h2>
 V1.1 --> Adding different header image feature for single page, adding fontAwesome. <a href="fortawesome.github.io/Font-Awesome/icons/">(See documentation)</a>
+V2.0 --> Font for main content changed to <a href="http://www.google.com/fonts/specimen/Lora">Lora</a>. Height of Header Photo in homepage is changed to 340px.
 
